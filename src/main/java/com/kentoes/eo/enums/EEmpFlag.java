@@ -1,0 +1,6 @@
+package com.kentoes.eo.enums;
+
+public enum EEmpFlag {
+    NULL, PEGAWAI_TETAP, PEGAWAI_KONTRAK, NON_PEGAWAI,
+    CALON_PEGAWAI, HONORER_TETAP, CALON_HONORER_TETAP
+}
